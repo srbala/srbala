@@ -1,4 +1,12 @@
-### Hi there 👋
+###  ✨ Bala Raman's Gibhub Profile ✨
+```
+- ⚡ Moto: Learning something new everyday. Experimenting new features of github. Simple, but amazing.
+```
+
+- 🔭 Working on migrating number of legacy applicaiton into cloud, mixure of private and hybrid clouds.
+- 🔭 Working on migrating some old mobile apps and creating some new apps. Too many choices Ionic, React Native, Flutter, Onsen UI, NativeScript and plain Cordova with JS/html so on; it's really hard pick a winnner. Depends teams knowledge and efforts involved etc. plays role in it.
+- 👯 I’m looking to collaborate enterprise BI/AI reporting, printing 
+
 
 <!--
 **srbala/srbala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
