@@ -1,12 +1,13 @@
 ###  ✨ Bala Raman's Gibhub Profile ✨
 ```
-- ⚡ Moto: Learning something new everyday. Experimenting new features of github. Simple, but amazing.
+- ⚡ Moto: Learning something new everyday. 
+- ✨ Experimenting new features of github. Simple, but amazing.
 ```
 
-- 🔭 Working on migrating number of legacy applicaiton into cloud, mixure of private and hybrid clouds.
+- 👯 Collaborating with IBM Team, RedHat Team and our own Middleware, Netowrking & Security team bring hybrid cloud to enterprise. It will be used deploy legacy Java applications, create BI/AI applications, Centralized notifications and printing 
+- 🌱 Learning to idendify various products like openshift, rancher, k8s and k3s etc ...
+- ⚡ Integrating Nexus3, Jenkins, Github all in CI/CD pipeline automation
 - 🔭 Working on migrating some old mobile apps and creating some new apps. Too many choices Ionic, React Native, Flutter, Onsen UI, NativeScript and plain Cordova with JS/html so on; it's really hard pick a winnner. Depends teams knowledge and efforts involved etc. plays role in it.
-- 👯 I’m looking to collaborate enterprise BI/AI reporting, printing 
-
 
 <!--
 **srbala/srbala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
