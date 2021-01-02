@@ -1,4 +1,6 @@
-###  ✨ Bala Raman's Gibhub Profile ✨
+![Bala Raman's GitHub Stats Summary](https://github-readme-stats.vercel.app/api?username=srbala&show_icons=true&theme=radical)
+
+###  ✨ Bala Raman's GitHub Profile ✨
 ```
 - ⚡ Moto: Learning something new everyday. 
 - ✨ Experimenting new features of github. Simple, but amazing.
