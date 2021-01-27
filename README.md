@@ -4,7 +4,7 @@
 ```
 - ⚡ Motto: Learning something new everyday. 
 - ✨ Experimenting new features of Github. Simple, but powerfull and amazing.
-- 🌱 Playing with https://forms.office.com dynamic Forms and Quiz.
+- 🌱 Using Microsft Office dynamic Forms to create Surveys and Quiz. Checkout https://forms.office.com, you might need microsoft account to make use this features.
 ```
 
 - 👯 Collaborating with IBM Team, RedHat Team and our own Middleware, Netowrking & Security team bring hybrid cloud to enterprise. It will be used deploy legacy Java applications, create BI/AI applications, Centralized notifications and printing 
