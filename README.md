@@ -8,7 +8,7 @@
 ```
 
 - 👯 Collaborated with IBM Team, RedHat Team and our own Middleware, Netowrking & Security team bring hybrid cloud to enterprise. Proof of concpet complete for three different project variations. 
-- ✨ Create BI/AI applications, Centralized notifications and printing 
+- ✨ Create BI/AI applications, Centralized email notifications and printing 
 - 🌱 Working with OpenShift, Exploring OKD, Rancher, k8s and k3s etc for alternte free install ...
 - ⚡ Integrated Nexus3, Jenkins, Github all in CI/CD pipeline automation
 - ✨ Porting Microsoft TVFS Projects into GIT 
