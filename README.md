@@ -11,7 +11,7 @@
 - ✨ Create BI/AI applications, Centralized email notifications and printing 
 - 🌱 Working with OpenShift, Exploring OKD, Rancher, k8s and k3s etc for alternte free install ...
 - ⚡ Integrated Nexus3, Jenkins, Github all in Jenkins CI/CD pipeline automation
-- ✨ Porting Microsoft TVFS Projects into GIT 
+- ✨ Ported Microsoft TVFS Projects into GIT, Utilized TFS GIT 
 - 🔭 Migrated few old mobile apps and working on new app. Too many choices Ionic, React Native, Flutter, Onsen UI, NativeScript and plain Cordova with JS/html so on; it's really hard pick a winnner. Depends teams knowledge and efforts involved all together plays role in pick a product.
 
 <!--
