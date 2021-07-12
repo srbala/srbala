@@ -7,7 +7,8 @@
 - 🌱 Using Microsft Office dynamic Forms to create Surveys and Quiz. Checkout https://forms.office.com, you might need microsoft account to make use this features.
 ```
 
-- 👯 Collaborated with IBM Team, RedHat Team and our own Middleware, Netowrking & Security team bring hybrid cloud to enterprise. Proof of concpet complete for three different project variations. OCP4 Seems great. Working on few alternatives.
+- 👯 Collaborated with IBM Team, RedHat Team and our own Middleware, Netowrking & Security team to implement hybrid cloud on the enterprise.
+- 👯 Joined AlmaLinux community, working on containers/cloud images. Looking into build automations
 - ✨ Create BI/AI applications, Centralized email notifications and printing 
 - 🌱 Working with OpenShift, Exploring OKD, Rancher, k8s and k3s etc for alternte free install ...
 - ⚡ Integrated Nexus3, Jenkins, Github all in Jenkins CI/CD pipeline automation
