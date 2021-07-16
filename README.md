@@ -4,7 +4,7 @@
 ```
 - ⚡ Motto: Learning something new everyday. 
 - ✨ Experimenting new features of Github. Simple, but powerfull and amazing.
-- 🌱 Using Microsft Office dynamic Forms to create Surveys and Quiz. Checkout https://forms.office.com, you might need microsoft account to make use this features.
+- 🌱 Using Microsft Office dynamic Forms to create Surveys and Quiz https://forms.office.com.
 ```
 
 - 👯 Collaborated with IBM Team, RedHat Team and our own Middleware, Netowrking & Security team to implement hybrid cloud on the enterprise.
