@@ -10,7 +10,7 @@
 - 👯 Collaborated with IBM Team, RedHat Team and our own Middleware, Netowrking & Security team to implement hybrid cloud on the enterprise.
 - 👯 Member of AlmaLinux community, working on containers, cloud images, WSL, and LiveMedia. Looking into build automations
 - ✨ Create BI/AI applications, Centralized email notifications and printing 
-- 🌱 Working with OpenShift, Exploring OKD, Rancher, k8s and k3s etc for alternte free install ...
+- 🌱 Implemented hybrid cloud using OpenShift, Exploring OKD, Rancher, k8s and k3s etc for personal use ...
 - ⚡ Integrated Nexus3, Jenkins, Github all in Jenkins CI/CD pipeline automation
 - ✨ Ported number of Microsoft TVFS Projects into GIT, Utilized TFS GIT 
 - 🔭 Using with Ionic, React Native, Flutter, Framework7 with Cordova for mobile development.
