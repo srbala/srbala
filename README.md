@@ -8,12 +8,12 @@
 ```
 
 - 👯 Collaborated with IBM Team, RedHat Team and our own Middleware, Netowrking & Security team to implement hybrid cloud on the enterprise.
-- 👯 Joined AlmaLinux community, working on containers/cloud images. Looking into build automations
+- 👯 Member of AlmaLinux community, working on containers, cloud images, WSL, and LiveMedia. Looking into build automations
 - ✨ Create BI/AI applications, Centralized email notifications and printing 
 - 🌱 Working with OpenShift, Exploring OKD, Rancher, k8s and k3s etc for alternte free install ...
 - ⚡ Integrated Nexus3, Jenkins, Github all in Jenkins CI/CD pipeline automation
 - ✨ Ported number of Microsoft TVFS Projects into GIT, Utilized TFS GIT 
-- 🔭 Working with Ionic, React Native, Flutter, Onsen UI, NativeScript and plain Cordova with JS/html so on; it's really hard pick a winnner. Depends teams knowledge and efforts involved all together plays role in pick a product.
+- 🔭 Using with Ionic, React Native, Flutter, Framework7 with Cordova for mobile development.
 
 <!--
 **srbala/srbala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
