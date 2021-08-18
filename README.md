@@ -11,7 +11,7 @@
 - 👯 Member of AlmaLinux community, working on containers, cloud images, WSL, and LiveMedia. Looking into build automations
 - ✨ Create BI/AI applications, Centralized email notifications and printing 
 - 🌱 Implemented hybrid cloud using OpenShift, Exploring OKD, Rancher, k8s and k3s etc for personal use ...
-- ⚡ Integrated Nexus3, Jenkins, Github all in Jenkins CI/CD pipeline automation
+- ⚡ Integrated Maven Nexus3, Jenkins CI/CD, Github web-hooks integration for pipelines and automation
 - ✨ Ported number of Microsoft TVFS Projects into GIT, Utilized TFS GIT 
 - 🔭 Using with Ionic, React Native, Flutter, Framework7 with Cordova for mobile development.
 
