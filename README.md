@@ -7,9 +7,9 @@
 - 🌱 Using Microsft Office dynamic Forms to create Surveys and Quiz https://forms.office.com.
 ```
 
-- 👯 Collaborated with IBM Team, RedHat Team and our own Middleware, Netowrking & Security team to implement hybrid cloud on the enterprise.
 - 👯 Member of AlmaLinux community, working on containers, cloud images, WSL, and LiveMedia. Looking into build automations
 - ✨ Create BI/AI applications, Centralized email notifications and printing 
+- 👯 Collaborated with IBM Team, RedHat Team and our own Middleware, Netowrking & Security team to implement hybrid cloud on the enterprise.
 - 🌱 Implemented hybrid cloud using OpenShift, Exploring OKD, Rancher, k8s and k3s etc for personal use ...
 - ⚡ Integrated Maven Nexus3, Jenkins CI/CD, Github web-hooks integration for pipelines and automation
 - ✨ Ported number of Microsoft TVFS Projects into GIT, Utilized TFS GIT 
