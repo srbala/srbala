@@ -2,9 +2,9 @@
 
 ###  ✨ Bala Raman's GitHub Profile ✨
 ```
-- ⚡ Motto: Learning something new everyday. 
-- ✨ Experimenting new features of Github. Simple, but powerfull and amazing.
-- 🌱 Using Microsft Office dynamic Forms to create Surveys and Quiz https://forms.office.com.
+- ⚡ note 1. 
+- ✨ note 2.
+- 🌱 note 3.
 ```
 
 - 👯 Member of AlmaLinux community, working on containers, cloud images, WSL, and LiveMedia. Looking into build automations
