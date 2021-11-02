@@ -1,11 +1,6 @@
 ![Bala Raman's GitHub Stats Summary](https://github-readme-stats.vercel.app/api?username=srbala&show_icons=true&theme=radical)
 
 ###  ✨ Bala Raman's GitHub Profile ✨
-```
-- ⚡ note 1. 
-- ✨ note 2.
-- 🌱 note 3.
-```
 
 - 👯 Member of AlmaLinux community, working on containers, cloud images, WSL, and LiveMedia. Looking into build automations
 - ✨ Create BI/AI applications, Centralized email notifications and printing 
@@ -16,6 +11,12 @@
 - 🔭 Using with Ionic, React Native, Flutter, Framework7 with Cordova for mobile development.
 
 <!--
+```
+- ⚡ note 1. 
+- ✨ note 2.
+- 🌱 note 3.
+```
+
 **srbala/srbala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
