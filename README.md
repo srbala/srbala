@@ -10,6 +10,10 @@
 - ✨ Ported number of Microsoft TVFS Projects into GIT, Utilized TFS GIT 
 - 🔭 Using with Ionic, React Native, Flutter, Framework7 with Cordova for mobile development.
 
+### GPG Keys
+
+- 💬 My personal GPG to sign files: `F5F75D15A3D7786CA6B954AD23A07BF21B5D6625`
+
 <!--
 ```
 - ⚡ note 1. 
