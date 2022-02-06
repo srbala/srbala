@@ -1,11 +1,11 @@
 ##  ✨ Bala Raman's GitHub Profile ✨
 
 ![Bala Raman's GitHub Stats Summary](https://github-readme-stats.vercel.app/api?username=srbala&show_icons=true&theme=radical)
-
+<!--
 ### GitHub Trophy's
 
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=srbala&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
+-->
 <!--
 - 👯 Member of AlmaLinux community, working on containers, cloud images, WSL, and LiveMedia. Looking into build automations
 - ✨ Create BI/AI applications, Centralized email notifications and printing 
